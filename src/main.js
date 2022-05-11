@@ -4,7 +4,7 @@ import './firebase';
 const app = new App({
 	target: document.body,
 	props: {
-		name: 'world'
+		name: 'soy Celeste y estoy probando variables de entorno en distintos ambientes, yay'
 	}
 });
 
